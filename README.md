@@ -1,39 +1,31 @@
-Deskripsi
-Website ini adalah alat konversi jurnal berbasis web yang memungkinkan pengguna untuk:
+📄 Deskripsi Website
+Website ini merupakan alat konversi jurnal berbasis web yang dirancang untuk memudahkan pengguna dalam mengubah format jurnal akademik sesuai dengan template atau panduan tertentu. Sistem ini menyediakan fitur unggahan ganda, pemrosesan konversi multi-tahap, serta dukungan berbagai format file.
 
-Mengunggah jurnal dalam berbagai format
+🚀 Fitur Utama
+1. Upload Ganda
+Unggah Dokumen Jurnal: Mendukung format PDF dan DOCX.
 
-Mengunggah template referensi
+Unggah Template Referensi: Template format tujuan dalam LaTeX.
 
-Memproses konversi dokumen menggunakan engine LaTeX dan Python
+2. Proses Konversi Multi-Tahap
+Ekstraksi Konten: Menggunakan PHP untuk membaca dan mengurai isi dokumen.
 
-Mendownload hasil konversi yang telah diformat
+Reformatting Dokumen: Menggunakan Python untuk menyesuaikan struktur dan gaya dokumen.
 
-Fitur Utama
-Sistem Upload Ganda:
+Kompilasi Akhir: Menggunakan LaTeX (via pdflatex atau xelatex) untuk menghasilkan dokumen akhir yang terstruktur dengan baik.
 
-Upload dokumen jurnal (PDF/DOCX)
+3. Output yang Dihasilkan
+Format akhir: DOCX yang telah diformat sesuai template.
 
-Upload template format tujuan (LaTeX template)
-
-Proses Konversi Multi-stage:
-
-Ekstraksi konten menggunakan PHP
-
-Reformatting menggunakan Python
-
-Kompilasi LaTeX untuk output final
-
-Support Format:
-
+📦 Dukungan Format
 Input: PDF, DOCX, LaTeX
 
 Output: DOCX
 
-Teknologi Stack
+🧰 Teknologi yang Digunakan
 Komponen	Teknologi
-Frontend	HTML5,  JavaScript (jQuery)
-Backend	PHP 8+ 
+Frontend	HTML5, JavaScript (jQuery)
+Backend	PHP 8+
 Processing	Python 3 (PyPDF2, python-docx)
-Typesetting	LaTeX (pdflatex/xelatex)
-Server	Apache/Nginx
+Typesetting	LaTeX (pdflatex / xelatex)
+Server	Apache / Nginx
