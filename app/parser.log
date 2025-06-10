@@ -1,0 +1,93 @@
+2025-06-09 16:11:28,425 - INFO - Journal parsed successfully
+2025-06-09 16:11:28,820 - INFO - Template applied successfully: G:\laragon\www\jurnal\app/processed/jurnal_hasil_1749460286.docx
+2025-06-10 08:56:44,956 - INFO - Journal parsed successfully
+2025-06-10 08:56:47,048 - INFO - Template applied successfully: G:\laragon\www\jurnal\app/processed/jurnal_hasil_1749520604.docx
+2025-06-10 09:03:03,269 - INFO - Starting to parse journal: G:\laragon\www\jurnal\app/uploads/68479255449fb.pdf
+2025-06-10 09:03:03,400 - INFO - Section abstract: 1000 characters
+2025-06-10 09:03:03,401 - INFO - Section introduction: 2003 characters
+2025-06-10 09:03:03,401 - INFO - Section method: 2003 characters
+2025-06-10 09:03:03,401 - INFO - Section result: 2003 characters
+2025-06-10 09:03:03,402 - INFO - Journal parsed successfully. Text length: 22787
+2025-06-10 09:03:03,402 - INFO - Journal parsing complete:
+2025-06-10 09:03:03,402 - INFO - - Title: Jurnal Kajian Ilmiah (JKI)
+2025-06-10 09:03:03,402 - INFO - - Authors: ['Unknown Author']
+2025-06-10 09:03:03,402 - INFO - - Text length: 22787 characters
+2025-06-10 09:03:03,402 - INFO - - Sections found: ['abstract', 'introduction', 'method', 'result']
+2025-06-10 09:03:03,402 - INFO - Applying template. Sections available: ['abstract', 'introduction', 'method', 'result']
+2025-06-10 09:03:06,083 - INFO - Document saved successfully: G:\laragon\www\jurnal\app/processed/jurnal_hasil_1749520982.docx
+2025-06-10 09:09:25,223 - INFO - Starting journal parsing: G:\laragon\www\jurnal\app/uploads/journal_684793d2ae249.pdf
+2025-06-10 09:09:25,417 - INFO - Extracted 22394 characters from PDF
+2025-06-10 09:09:25,420 - INFO - Extracted metadata: {'title': 'Jurnal Kajian Ilmiah (JKI) e-ISSN: 2597-792X, ISSN: 1410-9794 Edisi Khusus No. 1 (Juli 2020), Halaman: 1 – 3 Terakreditasi Peringkat 5 (SINTA 5) sesuai SK RISTEKDIKTI Nomor. 3/E/KPT/2019 Available Onl', 'authors': ['Author not detected'], 'doi': ''}
+2025-06-10 09:09:25,435 - INFO - No clear sections found, splitting text intelligently
+2025-06-10 09:09:25,435 - INFO - Journal parsed successfully. Text length: 22394
+2025-06-10 09:09:25,435 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_684793d2ae24e.docx
+2025-06-10 09:09:25,435 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_684793d2ae24e.docx
+2025-06-10 09:09:29,845 - INFO - Template applied successfully. Output saved to: G:\laragon\www\jurnal\app/processed/jurnal_hasil_2025-06-10_02-09-24.docx
+2025-06-10 09:09:29,845 - INFO - Processing completed successfully
+2025-06-10 09:14:20,864 - INFO - Starting journal parsing: G:\laragon\www\jurnal\app/uploads/journal_684794fa71a17.pdf
+2025-06-10 09:14:20,982 - INFO - Extracted 22394 characters from PDF
+2025-06-10 09:14:20,985 - INFO - Extracted metadata: {'title': 'Jurnal Kajian Ilmiah (JKI) e-ISSN: 2597-792X, ISSN: 1410-9794 Edisi Khusus No. 1 (Juli 2020), Halaman: 1 – 3 Terakreditasi Peringkat 5 (SINTA 5) sesuai SK RISTEKDIKTI Nomor. 3/E/KPT/2019 Available Onl', 'authors': ['Penulis tidak terdeteksi'], 'doi': ''}
+2025-06-10 09:14:21,006 - INFO - Trying alternative Indonesian section patterns
+2025-06-10 09:14:21,006 - INFO - No clear sections found, splitting text intelligently
+2025-06-10 09:14:21,006 - INFO - Journal parsed successfully. Text length: 22394
+2025-06-10 09:14:21,006 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_684794fa71a1d.docx
+2025-06-10 09:14:21,006 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_684794fa71a1d.docx
+2025-06-10 09:14:30,136 - INFO - Template applied successfully. Output saved to: G:\laragon\www\jurnal\app/processed/jurnal_hasil_2025-06-10_02-14-20.docx
+2025-06-10 09:14:30,136 - INFO - Processing completed successfully
+2025-06-10 09:19:25,013 - INFO - Starting robust parsing of: G:\laragon\www\jurnal\app/uploads/journal_6847962ab1fdf.pdf
+2025-06-10 09:19:25,125 - INFO - Extracted 22732 characters from G:\laragon\www\jurnal\app/uploads/journal_6847962ab1fdf.pdf
+2025-06-10 09:19:25,125 - INFO - Split into 9 meaningful paragraphs
+2025-06-10 09:19:25,127 - INFO - Section 'abstract': 605 characters
+2025-06-10 09:19:25,127 - INFO - Section 'introduction': 2000 characters
+2025-06-10 09:19:25,127 - INFO - Section 'method': 2000 characters
+2025-06-10 09:19:25,127 - INFO - Section 'result': 2000 characters
+2025-06-10 09:19:25,129 - INFO - Section 'discussion': 2000 characters
+2025-06-10 09:19:25,129 - INFO - Journal parsed - 9 paragraphs, 22732 characters
+2025-06-10 09:19:25,129 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_6847962ab1fe6.docx
+2025-06-10 09:19:30,181 - INFO - Made 0 total replacements
+2025-06-10 09:19:30,181 - WARNING - No placeholders found in template - adding content manually
+2025-06-10 09:19:30,232 - INFO - Document saved successfully to: G:\laragon\www\jurnal\app/processed/jurnal_hasil_2025-06-10_02-19-24.docx
+2025-06-10 10:02:04,125 - INFO - Processing journal with LaTeX: G:\laragon\www\jurnal\app/uploads/journal_6847a029aa212.pdf
+2025-06-10 10:02:04,302 - INFO - Extracted and cleaned 22924 characters
+2025-06-10 10:02:04,303 - INFO - LaTeX processor initialized - 9 paragraphs
+2025-06-10 10:02:04,973 - ERROR - LaTeX processing failed: bad escape \d at position 0
+Traceback (most recent call last):
+  File "G:\laragon\www\jurnal\app/parser.py", line 373, in main
+    latex_document = processor.generate_latex_document(template_content)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\laragon\www\jurnal\app/parser.py", line 190, in generate_latex_document
+    latex_content = re.sub(placeholder, content, latex_content)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python312\Lib\re\__init__.py", line 186, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python312\Lib\re\__init__.py", line 334, in _compile_template
+    return _sre.template(pattern, _parser.parse_template(repl, pattern))
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Programs\Python\Python312\Lib\re\_parser.py", line 1075, in parse_template
+    raise s.error('bad escape %s' % this, len(this)) from None
+re.error: bad escape \d at position 0
+
+2025-06-10 10:07:50,167 - INFO - Processing journal: G:\laragon\www\jurnal\app/uploads/journal_6847a183d7552.pdf
+2025-06-10 10:07:50,288 - INFO - Extracted 22732 characters
+2025-06-10 10:07:50,289 - INFO - Split into 9 paragraphs
+2025-06-10 10:07:50,290 - INFO - Processed 9 paragraphs, 22732 characters
+2025-06-10 10:07:50,290 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_6847a183d7557.docx
+2025-06-10 10:07:55,994 - INFO - Made 0 replacements
+2025-06-10 10:07:55,994 - WARNING - No placeholders found - adding content manually
+2025-06-10 10:07:56,097 - INFO - Document saved to: G:\laragon\www\jurnal\app/processed/jurnal_latex_2025-06-10_03-07-49.docx
+2025-06-10 10:29:45,582 - INFO - Processing journal: G:\laragon\www\jurnal\app/uploads/journal_6847a6a74b097.pdf
+2025-06-10 10:29:45,736 - INFO - Extracted 22732 characters
+2025-06-10 10:29:45,736 - INFO - Split into 9 paragraphs
+2025-06-10 10:29:45,740 - INFO - Processed 9 paragraphs, 22732 characters
+2025-06-10 10:29:45,742 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_6847a6a74b09f.docx
+2025-06-10 10:29:46,278 - INFO - Made 0 replacements
+2025-06-10 10:29:46,278 - WARNING - No placeholders - creating structured document
+2025-06-10 10:29:46,346 - INFO - Document saved successfully
+2025-06-10 10:32:20,313 - INFO - Processing journal: G:\laragon\www\jurnal\app/uploads/journal_6847a7425594a.pdf
+2025-06-10 10:32:20,435 - INFO - Extracted 22732 characters
+2025-06-10 10:32:20,437 - INFO - Processed 9 paragraphs
+2025-06-10 10:32:20,437 - INFO - Applying template: G:\laragon\www\jurnal\app/uploads/template_6847a74255950.docx
+2025-06-10 10:32:21,062 - INFO - Made 0 replacements while preserving formatting
+2025-06-10 10:32:21,062 - WARNING - No placeholders found - template might not use placeholders
+2025-06-10 10:32:21,135 - INFO - Document saved with preserved formatting
